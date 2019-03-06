@@ -1,0 +1,10 @@
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\bin\Debug\BresenhamTest.exe.config
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\bin\Debug\BresenhamTest.exe
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\bin\Debug\BresenhamTest.pdb
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.csprojAssemblyReference.cache
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.Form1.resources
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.Properties.Resources.resources
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.csproj.GenerateResource.cache
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.csproj.CoreCompileInputs.cache
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.exe
+C:\Users\lof\source\repos\BresenhamTest\BresenhamTest\obj\Debug\BresenhamTest.pdb
