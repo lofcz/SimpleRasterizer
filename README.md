@@ -16,6 +16,7 @@ Rasterizer doesn't use any fancy tricks to discard partially needed pixels / ant
 
 ## Example result
 [![image.png](https://i.postimg.cc/NFjncRgY/image.png)](https://postimg.cc/sQbmPQQ0)
+[![image.png](https://i.postimg.cc/D0StG1R6/image.png)](https://postimg.cc/m1GXf1L1)
 
 ## License
 MIT. Have a nice day.
